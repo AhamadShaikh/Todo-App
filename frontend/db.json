@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "18ac",
+      "title": "React",
+      "status": true
+    },
+    {
+      "id": "b6c9",
+      "title": "HTM",
+      "status": true
+    },
+    {
+      "id": "cb89",
+      "title": "CSS",
+      "status": false
+    }
+  ]
+}
